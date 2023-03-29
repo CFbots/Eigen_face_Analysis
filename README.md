@@ -1,2 +1,2 @@
 # Cornell Tech Machine Leaning HW 
-# Eigen Face analysis
+Eigen Face analysis
